@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  scroll-margin-block: 15vh;
+}
