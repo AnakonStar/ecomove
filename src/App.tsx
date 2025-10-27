@@ -105,7 +105,7 @@ const socialLinks = [
     handle: "@EcoMoveBikes",
     description:
       "Acompanhe bastidores, desafios e convites para pedais coletivos.",
-    href: "https://instagram.com/EcoMoveBikes",
+    href: "https://www.instagram.com/ecomove_bikes?utm_source=qr&igsh=c2RoeWE4eWV2bDNq",
     icon: Instagram,
   },
   {
@@ -113,7 +113,7 @@ const socialLinks = [
     handle: "Atualizações diárias",
     description:
       "Veja rotas em tempo real e participe de ativações sustentáveis.",
-    href: "https://instagram.com/EcoMoveBikes",
+    href: "https://www.instagram.com/ecomove_bikes?utm_source=qr&igsh=c2RoeWE4eWV2bDNq
     icon: Sparkles,
   },
   {
@@ -121,7 +121,7 @@ const socialLinks = [
     handle: "Materiais e kits",
     description:
       "Baixe apresentações, trilhas sonoras e kits para divulgar a campanha.",
-    href: "https://instagram.com/EcoMoveBikes",
+    href: "https://www.instagram.com/ecomove_bikes?utm_source=qr&igsh=c2RoeWE4eWV2bDNq",
     icon: Share2,
   },
 ];
