@@ -113,7 +113,7 @@ const socialLinks = [
     handle: "Atualizações diárias",
     description:
       "Veja rotas em tempo real e participe de ativações sustentáveis.",
-    href: "https://www.instagram.com/ecomove_bikes?utm_source=qr&igsh=c2RoeWE4eWV2bDNq
+    href: "https://www.instagram.com/ecomove_bikes?utm_source=qr&igsh=c2RoeWE4eWV2bDNq"
     icon: Sparkles,
   },
   {
